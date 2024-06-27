@@ -2,7 +2,7 @@
 import os
 import time
 
-username = ["push", "pull", "bench", "squat", "press", "cardio"]
+username = ["push", "pull", "bench", "squat", "press", "cardio", "swim", "jump"]
 attempt = 0
 max_attempt = 4
 #name = input("enter your username: ")
